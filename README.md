@@ -32,23 +32,36 @@
 
 <h3 align="center">🧱 Technical Stack Ecosystem</h3>
 
-<p align="center">
-  <code>🌐 Infrastructure & Virtualization</code> &nbsp;|&nbsp; <code>💻 Languages & Core Runtimes</code>
-  <br />
-  <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking,cisco" alt="Infra Skills" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Languages Skills" />
-</p>
-
-<br />
-
-<p align="center">
-  <code>🗄️ Engines, Frameworks & ORM</code> &nbsp;|&nbsp; <code>🛠️ Environments & Engineering Tools</code>
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,spring,react,nodejs" alt="Backend Skills" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Tools Skills" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <code>🌐 Infrastructure & Virtualization</code><br /><br />
+        <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking,cisco" alt="Infra Skills" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <code>💻 Languages & Core Runtimes</code><br /><br />
+        <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Languages Skills" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <code>🗄️ Engines, Frameworks & ORM</code><br /><br />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,spring,react,nodejs" alt="Backend Skills" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <code>🛠️ Environments & Engineering Tools</code><br /><br />
+        <img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Tools Skills" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -64,8 +77,8 @@
 
 ### 🗣️ Linguistics & Certifications
 
-* 🇫🇷 **French** — **B2 Level** *(TCF SO Score: 403)* • Professional operational proficiency.[cite: 1]
-* 🇬🇧 **English** — **Intermediate Technical Level** • Fully proficient in interpreting architecture specs and engineering documentation.[cite: 1]
+* 🇫🇷 **French** — **B2 Level** *(TCF SO Score: 403)* • Professional operational proficiency.
+* 🇬🇧 **English** — **Intermediate Technical Level** • Fully proficient in interpreting architecture specs and engineering documentation.
 
 <hr />
 
