@@ -65,16 +65,4 @@
 * 🇬🇧 **English** — **Intermediate Technical Level** • Fully proficient in interpreting architecture specs and engineering documentation.[cite: 1]
 <hr />
 
-<h3 align="center">🛰️ Connect Protocol</h3>
 
-<p align="center">
-  <a href="https://purple-pegasi-d1fallahs-projects.vercel.app?_vercel_share=rXCzugUDMqDcUasofxxLDZWMdhxjtv2s" target="_blank">
-    <code>[ DEPLOYED PORTFOLIO ]</code>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;🧬&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:akrammdifallah@gmail.com">
-    <code>[ akrammdifallah@gmail.com ]</code>
-  </a>
-</p>
-
-<br />
