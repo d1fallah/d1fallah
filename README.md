@@ -37,21 +37,29 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <h4>🌐 Infrastructure & Virtualization</h4>
-      <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking,cisco" alt="Infra Skills" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking,cisco" alt="Infra Skills" />
+      </p>
     </td>
     <td align="center" width="50%" valign="top">
       <h4>💻 Languages & Core Runtimes</h4>
-      <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Languages Skills" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Languages Skills" />
+      </p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <h4>🗄️ Engines, Frameworks & ORM</h4>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,spring,react,nodejs" alt="Backend Skills" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,spring,react,nodejs" alt="Backend Skills" />
+      </p>
     </td>
     <td align="center" width="50%" valign="top">
       <h4>🛠️ Environments & Engineering Tools</h4>
-      <img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Tools Skills" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Tools Skills" />
+      </p>
     </td>
   </tr>
 </table>
