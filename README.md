@@ -33,36 +33,35 @@
 
 <h3 align="center">🧱 Technical Stack Ecosystem</h3>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>🌐 Infrastructure & Virtualization</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking,cisco" alt="Infra Skills" />
-      </p>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h4>💻 Languages & Core Runtimes</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Languages Skills" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>🗄️ Engines, Frameworks & ORM</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,spring,react,nodejs" alt="Backend Skills" />
-      </p>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h4>🛠️ Environments & Engineering Tools</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Tools Skills" />
-      </p>
-    </td>
-  </tr>
-</table>
+<br />
+
+<p align="center">
+  <b>🌐 Infrastructure & Virtualization</b><br />
+  <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking,cisco" alt="Infra Skills" />
+</p>
+
+<br />
+
+<p align="center">
+  <b>💻 Languages & Core Runtimes</b><br />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Languages Skills" />
+</p>
+
+<br />
+
+<p align="center">
+  <b>🗄️ Engines, Frameworks & ORM</b><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,spring,react,nodejs" alt="Backend Skills" />
+</p>
+
+<br />
+
+<p align="center">
+  <b>🛠️ Environments & Engineering Tools</b><br />
+  <img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Tools Skills" />
+</p>
+
+<br />
 
 <br />
 
