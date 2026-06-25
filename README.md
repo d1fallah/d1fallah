@@ -17,7 +17,7 @@
   <tr>
     <!-- Alignement de l'image de profil comme sur {D593A858-8973-4541-A777-1E5AF534E8CD}.png -->
     <td width="35%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/d1fallah/d1fallah/main/profile-side.png" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" alt="Akram Core" />
+      <img src="dragon-ball-dragon-ball-z.gif" width="100%" style="border-radius: 6px; border: 1px solid #30363d;"/>
     </td>
     <!-- Descriptif technique à forte AURA -->
     <td width="65%" valign="top">
