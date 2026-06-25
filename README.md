@@ -63,20 +63,17 @@
 
 * 🇫🇷 **French** — **B2 Level** *(TCF SO Score: 403)* • Professional operational proficiency.[cite: 1]
 * 🇬🇧 **English** — **Intermediate Technical Level** • Fully proficient in interpreting architecture specs and engineering documentation.[cite: 1]
-
 <hr />
 
-<hr />
-
-### 🛰️ Connect Protocol
+<h3 align="center">🛰️ Connect Protocol</h3>
 
 <p align="center">
-  <a href="https://purple-pegasi-d1fallahs-projects.vercel.app?_vercel_share=rXCzugUDMqDcUasofxxLDZWMdhxjtv2s">
-    <img src="https://img.shields.io/badge/Production%20Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&v=2" alt="Portfolio" />
+  <a href="https://purple-pegasi-d1fallahs-projects.vercel.app?_vercel_share=rXCzugUDMqDcUasofxxLDZWMdhxjtv2s" target="_blank">
+    <code>[ DEPLOYED PORTFOLIO ]</code>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;🧬&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:akrammdifallah@gmail.com">
-    <img src="https://img.shields.io/badge/Secure%20Mail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
+    <code>[ akrammdifallah@gmail.com ]</code>
   </a>
 </p>
 
