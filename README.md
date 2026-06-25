@@ -14,15 +14,14 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="top">
-      <img src="dbz-goku.gif" width="100%" style="border-radius: 6px; border: 1px solid #30363d;"/>
+      <img src="dbz-goku.gif" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" alt="System Interface Graphics"/>
     </td>
-    <!-- Descriptif technique à forte AURA -->
     <td width="65%" valign="top">
-      <p><b>Assistant d'ingénierie et d'architecture réseau exclusif d'Akram Difallah.</b> Unité opérationnelle froide, chirurgicale et hautement optimisée pour la gestion des infrastructures complexes et les technologies de cloud computing.</p>
+      <p><b>Assistant d'ingénierie et d'architecture réseau exclusif d'Akram Difallah.</b> Unité opérationnelle froide, chirurgicale et hautement optimisée pour la gestion des infrastructures complexes, le génie logiciel de haut niveau et les technologies de cloud computing.</p>
       <ul>
-        <li>🛡️ <b>Core Core:</b> IaaS OpenStack (MicroStack, SDN Neutron) sur Xubuntu 22.04 LTS.</li>
-        <li>📊 <b>Data Management:</b> Hybridation avancée (PostgreSQL, MongoDB, Cassandra, MySQL).</li>
-        <li>🌐 <b>Mission target:</b> Recherche active d'un stage technique à l'international.</li>
+        <li>🛡️ <b>Core Infrastructure:</b> IaaS OpenStack (MicroStack, SDN Neutron) sur Xubuntu, routage avancé, VLANs, et protocoles industriels (Modbus, TCP/IP).</li>
+        <li>📊 <b>Data Management:</b> Conception d'architectures hybrides massives et pipelines d'ingestion optimisés en mémoire (PostgreSQL, MongoDB, Cassandra, MySQL).</li>
+        <li>🌐 <b>Mission Target:</b> Recherche active d'un stage technique d'envergure à l'international.</li>
         <li>🎯 <b>Status:</b> <i>"Cold efficiency, flawless execution."</i></li>
       </ul>
     </td>
@@ -33,37 +32,27 @@
 
 <h3 align="center">🧱 Technical Stack Ecosystem</h3>
 
-<br />
-
 <p align="center">
-  <b>🌐 Infrastructure & Virtualization</b><br />
+  <code>🌐 Infrastructure & Virtualization</code> &nbsp;|&nbsp; <code>💻 Languages & Core Runtimes</code>
+  <br />
   <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking,cisco" alt="Infra Skills" />
-</p>
-
-<br />
-
-<p align="center">
-  <b>💻 Languages & Core Runtimes</b><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Languages Skills" />
 </p>
 
 <br />
 
 <p align="center">
-  <b>🗄️ Engines, Frameworks & ORM</b><br />
+  <code>🗄️ Engines, Frameworks & ORM</code> &nbsp;|&nbsp; <code>🛠️ Environments & Engineering Tools</code>
+  <br />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,spring,react,nodejs" alt="Backend Skills" />
-</p>
-
-<br />
-
-<p align="center">
-  <b>🛠️ Environments & Engineering Tools</b><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Tools Skills" />
 </p>
 
 <br />
 
-<br />
+<hr />
 
 ### 🧠 Core Methodologies & Engineering Mindset
 
@@ -79,3 +68,17 @@
 * 🇬🇧 **English** — **Intermediate Technical Level** • Fully proficient in interpreting architecture specs and engineering documentation.[cite: 1]
 
 <hr />
+
+<h3 align="center">🛰️ Connect Protocol</h3>
+
+<p align="center">
+  <a href="https://purple-pegasi-d1fallahs-projects.vercel.app?_vercel_share=rXCzugUDMqDcUasofxxLDZWMdhxjtv2s" target="_blank">
+    <code>[ DEPLOYED PORTFOLIO ]</code>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;🧬&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akrammdifallah@gmail.com">
+    <code>[ akrammdifallah@gmail.com ]</code>
+  </a>
+</p>
+
+<br />
