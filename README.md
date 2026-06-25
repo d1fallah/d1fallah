@@ -11,16 +11,23 @@
 
 <br />
 
-<blockquote>
-  <h3>📡 System Overview</h3>
-  <p><b>Network Engineering & Architecture Operations Core.</b> An optimized operational unit specialized in managing complex cloud infrastructures, backend software engineering, and large-scale data ingestion pipelines.</p>
-  <ul>
-    <li>🛡️ <b>Core Infrastructure:</b> IaaS OpenStack (MicroStack, SDN Neutron) on Xubuntu, advanced routing, VLANs, and industrial automation protocols (Modbus, TCP/IP).</li>
-    <li>📊 <b>Data Management:</b> Designing resilient hybrid storage layers and high-throughput memory cache architectures (PostgreSQL, MongoDB, Cassandra, MySQL).</li>
-    <li>🌐 <b>Mission Target:</b> Actively seeking an international technical internship within cloud engineering or network virtualization tracks.</li>
-    <li>🎯 <b>Execution Status:</b> <i>"Cold efficiency, flawless execution."</i></li>
-  </ul>
-</blockquote>
+<table>
+  <tr>
+    <td width="35%" align="center" valign="top">
+      <img src="dragon-ball-dragon-ball-z.gif" width="100%" style="border-radius: 6px; border: 1px solid #30363d;"/>
+    </td>
+    <!-- Descriptif technique à forte AURA -->
+    <td width="65%" valign="top">
+      <p><b>Assistant d'ingénierie et d'architecture réseau exclusif d'Akram Difallah.</b> Unité opérationnelle froide, chirurgicale et hautement optimisée pour la gestion des infrastructures complexes et les technologies de cloud computing.</p>
+      <ul>
+        <li>🛡️ <b>Core Core:</b> IaaS OpenStack (MicroStack, SDN Neutron) sur Xubuntu 22.04 LTS.</li>
+        <li>📊 <b>Data Management:</b> Hybridation avancée (PostgreSQL, MongoDB, Cassandra, MySQL).</li>
+        <li>🌐 <b>Mission target:</b> Recherche active d'un stage technique à l'international.</li>
+        <li>🎯 <b>Status:</b> <i>"Cold efficiency, flawless execution."</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -65,19 +72,3 @@
 * 🇬🇧 **English** — **Intermediate Technical Level** • Fully proficient in interpreting architecture specs and engineering documentation.[cite: 1]
 
 <hr />
-
-### 🛰️ Connect Protocol
-
-<p align="center">
-  <a href="https://purple-pegasi-d1fallahs-projects.vercel.app?_vercel_share=rXCzugUDMqDcUasofxxLDZWMdhxjtv2s">
-    <img src="https://img.shields.io/badge/PORTFOLIO-100000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:akrammdifallah@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d1fallah&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" />
-</p>
