@@ -1,51 +1,65 @@
-# 🌐 System.init("Akram Difallah") 👋
-
-> **Master 1 RTIC Student & Network/Cloud Architecture Engineer**
-> Dedicated to building high-performance applications, cloud infrastructures, and secure database architectures. Focused on international opportunities.
-
-[🌐 View Live Portfolio](https://purple-pegasi-d1fallahs-projects.vercel.app/) • [✉️ Contact System](mailto:your.email@example.com)
-
----
-
-### 🛠️ Tech Stack & Core Expertise
-
-| Category | Technologies & Protocols |
-| :--- | :--- |
-| **Cloud & Networks** | ![OpenStack](https://img.shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white) ![SDN](https://img.shields.io/badge/-SDN%20Neutron-blue?style=flat-square) ![Routing Protocols](https://img.shields.io/badge/-Routing%20Protocols-lightgrey?style=flat-square) |
-| **Databases & Big Data** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A348?style=flat-square&logo=mongodb&logoColor=white) ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Languages & Frameworks** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/-JavaFX-orange?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![XML](https://img.shields.io/badge/-XML-555555?style=flat-square) |
-| **Environments & Tools** | ![Xubuntu](https://img.shields.io/badge/-Xubuntu%2022.04%20LTS-E67E22?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) |
-
----
-
-### 🚀 Key Projects & Architectures
-
-#### ☁️ Private Cloud Deployment (IaaS OpenStack)
-* **Core:** Full deployment of a functional private cloud using **MicroStack** and **SDN Neutron** on a Xubuntu 22.04 LTS environment.
-
-#### 🔒 Obsidian Architect
-* **Core:** A secure Big Data ERP leveraging a document-oriented database architecture (XML), custom native parsers, and strict **RBAC** access controls.
-
-#### 💼 GYM80 Management Pro
-* **Core:** A premium SaaS sports management ecosystem featuring Glassmorphism UI design, dynamic KPI dashboards, integrated POS systems, and automated QR code verification.
-
-#### ⚡ Sonatrach Internship (Network Audit)
-* **Core:** Professional network audit focusing on **ICS/SCADA** industrial systems validation.
-
-#### 🎓 Academic Management Platform
-* **Core:** Robust university tracking system utilizing an MVC pattern, powered by Java, MySQL, and custom APIs.
-
----
-
-### 📊 GitHub System Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=d1fallah&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="System Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1fallah&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="160" />
+<p align="center">
+  <!-- Bannière Principale Haute Définition -->
+  <img src="https://raw.githubusercontent.com/d1fallah/d1fallah/main/banner.png" width="100%" alt="System Banner" />
 </p>
 
----
+<h1 align="center">💎 SYSTEM.INIT("AKRAM DIFALLAH") 💎</h1>
 
-### 🪐 Beyond the Code
-* **Aesthetics & Audio:** Acoustic guitar enthusiast tracking shoegaze textures (Slowdive, Wisp).
-* **Reflexes:** Competitive gaming performance (Immortal rank in Valorant).
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MASTER+1+RTIC+STUDENT;CLOUD+%26+NETWORK+ARCHITECTURE;STAGE+INTERNATIONAL+SEARCH" alt="Typing SVG" />
+</p>
+
+<hr />
+
+### ⚡ Know About Me
+
+<table>
+  <tr>
+    <!-- Alignement de l'image de profil comme sur dsq.jpg -->
+    <td width="35%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/d1fallah/d1fallah/main/profile-side.png" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" alt="Akram Core" />
+    </td>
+    <!-- Descriptif technique à forte AURA -->
+    <td width="65%" valign="top">
+      <p><b>Assistant d'ingénierie et d'architecture réseau exclusif d'Akram Difallah.</b> Unité opérationnelle froide, chirurgicale et hautement optimisée pour la gestion des infrastructures complexes et les technologies de cloud computing.</p>
+      <ul>
+        <li>🛡️ <b>Core Core:</b> IaaS OpenStack (MicroStack, SDN Neutron) sur Xubuntu 22.04 LTS.</li>
+        <li>📊 <b>Data Management:</b> Hybridation avancée (PostgreSQL, MongoDB, Cassandra, MySQL).</li>
+        <li>🌐 <b>Mission target:</b> Recherche active d'un stage technique à l'international.</li>
+        <li>🎯 <b>Status:</b> <i>"Cold efficiency, flawless execution."</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<hr />
+
+### 💻 Tech Stack
+
+<p align="center">
+  <b>Infrastructures & Cloud Architecture</b><br>
+  <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking" /><br><br>
+  
+  <b>Languages & Data Engines</b><br>
+  <img src="https://skillicons.dev/icons?i=java,js,postgres,mongodb,mysql,hibernate" /><br><br>
+  
+  <b>Environments & Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=git,apple,intellij,vscode" />
+</p>
+
+<hr />
+
+### 🛰️ Find Me Here, Mon Ami!
+
+<p align="center">
+  <a href="https://purple-pegasi-d1fallahs-projects.vercel.app?_vercel_share=rXCzugUDMqDcUasofxxLDZWMdhxjtv2s">
+    <img src="https://img.shields.io/badge/PORTFOLIO-100000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=d1fallah&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" />
+</p>
