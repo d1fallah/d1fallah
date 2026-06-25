@@ -24,31 +24,31 @@
 
 <br />
 
-<h3 align="center">🧱 Technical Stack Ecosystem</h3>
+<hr />
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>🌐 Infrastructure & Virtualization</h4>
-      <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking,cisco" alt="Infra Skills" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h4>💻 Languages & Core Runtimes</h4>
-      <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Languages Skills" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>🗄️ Engines, Frameworks & ORM</h4>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,spring,react,nodejs" alt="Backend Skills" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h4>🛠️ Environments & Engineering Tools</h4>
-      <img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Tools Skills" />
-    </td>
-  </tr>
-</table>
+### 💻 Tech Stack Ecosystem
 
+#### 🌐 Infrastructures & Cloud Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking,cisco" alt="Infrastructure Architecture" />
+</p>
+
+#### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,spring,react,nodejs" alt="Programming Languages" />
+</p>
+
+#### 🗄️ Data Engines & ORM
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate" alt="Data Systems" />
+</p>
+
+#### 🛠️ Environments, Tools & Simulation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Engineering Tools" />
+</p>
+
+<hr />
 <br />
 
 ### 🧠 Core Methodologies & Engineering Mindset
