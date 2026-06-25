@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="top">
-      <img src="super-saiyan-goku.gif" width="100%" style="border-radius: 6px; border: 1px solid #30363d;"/>
+      <img src="dbz-goku.gif" width="100%" style="border-radius: 6px; border: 1px solid #30363d;"/>
     </td>
     <!-- Descriptif technique à forte AURA -->
     <td width="65%" valign="top">
