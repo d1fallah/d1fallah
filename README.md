@@ -1,4 +1,3 @@
-<img width="1870" height="1006" alt="{C3287089-C89D-4249-9B10-C312BB4A963B}" src="https://github.com/user-attachments/assets/9ac911e6-7e89-466b-aea0-313c9176f1c2" /><p align="center">
   <!-- Bannière Principale Haute Définition -->
   <img src="banner.png" width="100%"/>
 </p>
