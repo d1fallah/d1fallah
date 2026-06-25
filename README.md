@@ -66,18 +66,18 @@
 
 <hr />
 
+<hr />
+
 ### 🛰️ Connect Protocol
 
 <p align="center">
   <a href="https://purple-pegasi-d1fallahs-projects.vercel.app?_vercel_share=rXCzugUDMqDcUasofxxLDZWMdhxjtv2s">
-    <img src="https://img.shields.io/badge/PORTFOLIO-100000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Production%20Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&v=2" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:akrammdifallah@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Secure%20Mail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d1fallah&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" />
-</p>
+<br />
