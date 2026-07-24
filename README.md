@@ -1,97 +1,57 @@
-<p align="center">
- 
-  <img src="banner.png" width="100%" alt="System Banner" />
-</p>
+# Akram Difallah
+**Cloud & Network Architecture Engineer | Freelance Developer**
 
-<h1 align="center"><code>SYSTEM.INIT("AKRAM DIFALLAH")</code></h1>
+I specialize in designing scalable backend systems, hybrid cloud architectures, and robust network topologies. My focus is on delivering efficient, high-performance infrastructure solutions.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MASTER+1+RTIC+STUDENT;CLOUD+%26+NETWORK+ARCHITECTURE;STAGE+INTERNATIONAL+SEARCH" alt="Typing SVG" />
-</p>
+### 👨‍💻 Professional Summary
+- **Background:** Master's student in Information and Communication Technologies Networks (RTIC) and independent freelance developer.
+- **Expertise:** IaaS OpenStack (MicroStack, SDN Neutron), advanced routing, VLANs, and industrial protocols (Modbus, TCP/IP).
+- **Data Management:** Designing massive hybrid architectures and memory-optimized ingestion pipelines.
+- **Objective:** Actively seeking a comprehensive international technical internship.
 
-<br />
+---
 
-<table>
-  <tr>
-    <td width="35%" align="center" valign="top">
-      <img src="dbz-goku.gif" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" alt="System Interface Graphics"/>
-    </td>
-    <td width="65%" valign="top">
-      <p><b>Assistant d'ingénierie et d'architecture réseau exclusif d'Akram Difallah.</b> Unité opérationnelle froide, chirurgicale et hautement optimisée pour la gestion des infrastructures complexes, le génie logiciel de haut niveau et les technologies de cloud computing.</p>
-      <ul>
-        <li>🛡️ <b>Core Infrastructure:</b> IaaS OpenStack (MicroStack, SDN Neutron) sur Xubuntu, routage avancé, VLANs, et protocoles industriels (Modbus, TCP/IP).</li>
-        <li>📊 <b>Data Management:</b> Conception d'architectures hybrides massives et pipelines d'ingestion optimisés en mémoire (PostgreSQL, MongoDB, Cassandra, MySQL).</li>
-        <li>🌐 <b>Mission Target:</b> Recherche active d'un stage technique d'envergure à l'international.</li>
-        <li>🎯 <b>Status:</b> <i>"Cold efficiency, flawless execution."</i></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🛠 Technical Ecosystem
 
-<br />
+**Infrastructure & Virtualization**
+<br>
+<img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,network,cisco" alt="Infra Skills" />
 
-<h3 align="center">🧱 Technical Stack Ecosystem</h3>
+**Languages & Core Runtimes**
+<br>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Languages Skills" />
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <code>🌐 Infrastructure & Virtualization</code><br /><br />
-        <img src="https://skillicons.dev/icons?i=openstack,ubuntu,linux,networking,cisco" alt="Infra Skills" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <code>💻 Languages & Core Runtimes</code><br /><br />
-        <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Languages Skills" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <code>🗄️ Engines, Frameworks & ORM</code><br /><br />
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,spring,react,nodejs" alt="Backend Skills" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <code>🛠️ Environments & Engineering Tools</code><br /><br />
-        <img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Tools Skills" />
-      </div>
-    </td>
-  </tr>
-</table>
+**Databases & Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,spring,react,nodejs" alt="Backend Skills" />
 
-<br />
+**Engineering Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,apple,idea,vscode,latex,matlab" alt="Tools Skills" />
 
-<hr />
+---
 
-### 🧠 Core Methodologies & Engineering Mindset
+### 🧠 Core Methodologies
 
-* **Systems Thinking** — Architectural approach built on analyzing complete technological pipelines, balancing low-level memory performance with macro resource orchestration.
-* **Scalability & Aggregation** — Engineering backend systems capable of batch-processing millions of transactions efficiently without memory saturation through smart caching and query optimization.
-* **Network Automation & Inspection** — Proficient in simulating complex topologies, deep packet inspection (Wireshark), and building programmatic infrastructure utilities.
+* **Systems Thinking:** Architectural approach built on analyzing complete technological pipelines, balancing low-level memory performance with macro resource orchestration.
+* **Scalability & Aggregation:** Engineering backend systems capable of batch-processing millions of transactions efficiently without memory saturation through smart caching and query optimization.
+* **Network Automation & Inspection:** Proficient in simulating complex topologies, deep packet inspection (Wireshark), and building programmatic infrastructure utilities.
 
-<hr />
+---
 
 ### 🗣️ Linguistics & Certifications
 
-* 🇫🇷 **French** — **B2 Level** *(TCF SO Score: 403)* • Professional operational proficiency.
-* 🇬🇧 **English** — **Intermediate Technical Level** • Fully proficient in interpreting architecture specs and engineering documentation.
+* 🇫🇷 **French:** B2 Level *(TCF SO Score: 403)* — Professional operational proficiency.
+* 🇬🇧 **English:** Intermediate Technical Level — Fully proficient in interpreting architecture specs and engineering documentation.
 
-<hr />
+---
 
-<h3 align="center">🛰️ Connect Protocol</h3>
+### 📫 Connect
 
-<p align="center">
-  <a href="https://purple-pegasi-d1fallahs-projects.vercel.app?_vercel_share=rXCzugUDMqDcUasofxxLDZWMdhxjtv2s" target="_blank">
-    <code>[ DEPLOYED PORTFOLIO ]</code>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;🧬&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:akrammdifallah@gmail.com">
-    <code>[ akrammdifallah@gmail.com ]</code>
-  </a>
-</p>
+* **Portfolio:** [Deployed Portfolio](https://purple-pegasi-d1fallahs-projects.vercel.app?_vercel_share=rXCzugUDMqDcUasofxxLDZWMdhxjtv2s)
+* **Email:** [akrammdifallah@gmail.com](mailto:akrammdifallah@gmail.com)
 
-<br />
+<!-- 
+Optional: Once you have set up your lowlighter/metrics GitHub Action, 
+you can embed the clean SVG image right here. 
+-->
