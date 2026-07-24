@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- High-Definition Production Banner -->
+ 
   <img src="banner.png" width="100%" alt="System Banner" />
 </p>
 
