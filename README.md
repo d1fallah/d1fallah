@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **Startup Sihha Dz (Co-founder)**
+- 🔭 I’m currently working on **Startup Sihha Dz (Leader)**
 
 - 🌱 I’m currently learning **Master's in Network and Technologies of Information and Communication (NTIC)**
 
