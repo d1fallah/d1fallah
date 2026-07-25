@@ -1,6 +1,5 @@
 <h3 align="center">Full Stack Developer | Network Engineer</h3>
 
-
 - 🔭 I’m currently working on **Startup Sihha Dz (Co-founder)**
 
 - 🌱 I’m currently learning **Master's in Network and Technologies of Information and Communication (NTIC)**
