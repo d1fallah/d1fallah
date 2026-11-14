@@ -1,5 +1,5 @@
 # Akram Difallah
-[portfolio-akram-nu.vercel.app](https://portfolio-akram-nu.vercel.app)
+
 
 ## Technical stack
 
