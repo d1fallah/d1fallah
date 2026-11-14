@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| **Languages** | Java, JavaScript, TypeScript, Python, C, C++, Rust |
+| **Languages** | Java, JavaScript, TypeScript, Python, C, c#, Go |
 | **Frontend** | React, Vue, Tailwind CSS |
 | **Backend and data** | Node.js, GraphQL, PostgreSQL, MySQL, MongoDB, Cassandra, RabbitMQ |
 | **Infrastructure** | Linux, OpenStack, AWS, Azure, Bash, Git |
