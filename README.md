@@ -6,9 +6,9 @@
 | | |
 |---|---|
 | **Languages** | Java, JavaScript, TypeScript, Python, C, c#, Go |
-| **Frontend** | React, Vue, Tailwind CSS |
-| **Backend and data** | Node.js, GraphQL, PostgreSQL, MySQL, MongoDB, Cassandra, RabbitMQ |
-| **Infrastructure** | Linux, OpenStack, AWS, Azure, Bash, Git |
+| **Frontend** | React, Astro, Bootstrap, Tailwind CSS |
+| **Backend and data** | Node.js, SpringBoot, GraphQL, PostgreSQL, MySQL, MongoDB, Cassandra, RabbitMQ |
+| **Infrastructure** | Linux, OpenStack, Kubernates, Docker, Podman, AWS, Azure, Bash, Git |
 
 ## Contact
 
